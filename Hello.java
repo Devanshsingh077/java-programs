@@ -10,12 +10,20 @@ public class Hello {
             System.out.println(a+b);
         
         }
+        public static void substraction()
+        {
+            int a=70;
+            int b=40;       
+            System.out.println(a-b);
+
+        }
     }
 
     public static void main(String[] args) {
         
 
         Devansh.add();
+        Devansh.substraction();
         
        
 
