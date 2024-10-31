@@ -12,6 +12,7 @@ public class Pattern6 {
             for(int j=1;j<=column;j++)
             {
                 if(i==1 || i==row)
+                
                 {
                     System.out.print("*");
 
